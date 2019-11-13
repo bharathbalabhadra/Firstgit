@@ -1,2 +1,4 @@
  my first git program
  perfoming merge conflicts from local
+performing merge conflicts
+
